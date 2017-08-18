@@ -90,7 +90,7 @@ http://site21.way2sms.com/content/index.html
 7. Close the website
 
 
-new excercise: - This scenario need to be completed.
+new excercise: - This scenario need to be completed today.
 -------------
 use relative xpaths
 
