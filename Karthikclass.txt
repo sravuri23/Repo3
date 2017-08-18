@@ -1,0 +1,112 @@
+Test Scenario:
+--------------
+
+1. Launch Gmail site
+2. Do Login
+3. Click compose
+4. Fill all the fields in the compose page
+5. Click send
+6. Get output message and display
+7. Click on google apps find all the elements
+8. Find out the size inside the google apps 
+9. Create the list and print the elements in console of all the apps
+10. Click my account 
+11. Close my account
+12. Navigate back to gmail page
+13. Click on logout
+14. Compose an email 
+15. Attach an email and send
+
+
+Exercise:
+
+1. After navigating to myaccount find out the count of the elements
+2. Click on Play store from the my account page.
+
+
+
+Test scenario:
+--------------
+
+Launch google site
+wait for few seconds
+check whether the website is secure or not
+close the browser
+
+
+Excercise:-
+i)	Launch mercury tours website using Chrome browser.
+ii)	Wait few seconds.
+iii)	Click register link.
+iv)	Fill fields in registration page 
+v)	Click register
+vi)	Close site.
+
+
+
+Excercise:1
+-----------
+
+1. In facebook registration page find out how many radio buttons are displayed and print out
+in the console
+
+Use list concept
+
+Excercise:2
+-----------
+
+1. Find out how many image tags are available in facebook registration page
+
+Excercise:3
+-----------
+
+1. open the following website
+http://site21.way2sms.com/content/index.html
+2. Click google play button
+3. Wait for few seconds
+4. Navigate back waytosms site
+5. Do login on way 2 sms
+userid = 9585368899
+password = 9585368899
+wait for few seconds
+Close the site
+
+Excercise:4
+------------
+1. Launch google website
+2. Wait for few seconds
+3. Check whether cookies are loaded or not
+use if condition:
+
+Excercise :5
+--------------
+1. open the following website
+http://site21.way2sms.com/content/index.html
+2. Click google play button
+3. Wait for few seconds
+4. Take screenshot and close the current active webpage
+5. Navigate back to way 2 sms
+6. Do login and take another screenshot
+7. Close the website
+
+
+new excercise: - This scenario need to be completed.
+-------------
+use relative xpaths
+
+1. open the following website
+http://site21.way2sms.com/content/index.html
+
+2. Click google play button
+
+(open all the five links, close one by one)
+
+3. Wait for few seconds
+4. Take screenshot and close the current active webpage
+5. Get title of current window
+6. Close that google play window
+7. Do for all the links from way 2 sms page as like above google play
+8. Open each link and get the title of the page 
+9. take of screenshot of the page
+10.Close the each page
+
